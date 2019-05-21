@@ -17,6 +17,6 @@ and correct "eciCMYK.icc" in "%magickprog%" call.
 
 
 
-Call Convert2cmyk.bat from commandline, or doublecklick.
+Call Convert2Cmyk.bat from commandline, or doublecklick.
 
 Happy CMYK conversion, or whatever you want from magick
